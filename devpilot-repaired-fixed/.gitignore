@@ -1,0 +1,16 @@
+backend/.env
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/storage/
+backend/*.db
+frontend/node_modules/
+frontend/dist/
+.env
+
+# Local cloned GitHub source repositories (never commit private source)
+/data/repositories/
+backend/data/
+backend/.env.*
+!backend/.env.example
+data/repositories/
